@@ -1,0 +1,5 @@
+D:\Projects\ProjectClockwork\ProjectClockwork\Intermediate\Build\Win64\UE4Editor\Development\ProjectClockwork\Definitions.ProjectClockwork.h
+D:\Unreal Engine 4.27\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Unreal Engine 4.27\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\Projects\ProjectClockwork\ProjectClockwork\Source\ProjectClockwork/MyBlueprintFunctionLibrary.h
+D:\Projects\ProjectClockwork\ProjectClockwork\Intermediate\Build\Win64\UE4Editor\Inc\ProjectClockwork\MyBlueprintFunctionLibrary.generated.h

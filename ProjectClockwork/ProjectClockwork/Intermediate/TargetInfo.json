@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProjectClockwork",
+			"Path": "D:\\Projects\\ProjectClockwork\\ProjectClockwork\\Source\\ProjectClockwork.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProjectClockworkEditor",
+			"Path": "D:\\Projects\\ProjectClockwork\\ProjectClockwork\\Source\\ProjectClockworkEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

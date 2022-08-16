@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ProjectClockwork.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{38DE269F-AD62-4BCB-A004-383F56700E55}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ProjectClockwork.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ProjectClockworkEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9FBF26F3-D9D6-420A-AF3D-9D29226681ED}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ProjectClockwork">
+      <UniqueIdentifier>{3B3CDFEE-07F0-4B45-BC44-D74371E0F035}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ProjectClockwork\BPFL_FileIO.cpp">
+      <Filter>Source\ProjectClockwork</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectClockwork\BPFL_FileIO.h">
+      <Filter>Source\ProjectClockwork</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\ProjectClockwork\ProjectClockwork.Build.cs">
+      <Filter>Source\ProjectClockwork</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ProjectClockwork\ProjectClockwork.cpp">
+      <Filter>Source\ProjectClockwork</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ProjectClockwork\ProjectClockwork.h">
+      <Filter>Source\ProjectClockwork</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

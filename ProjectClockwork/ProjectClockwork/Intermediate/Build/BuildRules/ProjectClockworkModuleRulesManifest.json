@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\ProjectClockwork\\ProjectClockwork\\Source\\ProjectClockwork\\ProjectClockwork.Build.cs",
+		"D:\\Projects\\ProjectClockwork\\ProjectClockwork\\Source\\ProjectClockwork.Target.cs",
+		"D:\\Projects\\ProjectClockwork\\ProjectClockwork\\Source\\ProjectClockworkEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

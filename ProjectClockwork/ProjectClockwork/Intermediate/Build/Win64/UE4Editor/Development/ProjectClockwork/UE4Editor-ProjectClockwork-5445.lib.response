@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ProjectClockwork-5445.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Projects\ProjectClockwork\ProjectClockwork\Intermediate\Build\Win64\ProjectClockworkEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Projects\ProjectClockwork\ProjectClockwork\Intermediate\Build\Win64\UE4Editor\Development\ProjectClockwork\BPFL_FileIO.cpp.obj"
+"D:\Projects\ProjectClockwork\ProjectClockwork\Intermediate\Build\Win64\UE4Editor\Development\ProjectClockwork\ProjectClockwork.cpp.obj"
+"D:\Projects\ProjectClockwork\ProjectClockwork\Intermediate\Build\Win64\UE4Editor\Development\ProjectClockwork\BPFL_FileIO.gen.cpp.obj"
+"D:\Projects\ProjectClockwork\ProjectClockwork\Intermediate\Build\Win64\UE4Editor\Development\ProjectClockwork\ProjectClockwork.init.gen.cpp.obj"
+"D:\Projects\ProjectClockwork\ProjectClockwork\Intermediate\Build\Win64\UE4Editor\Development\ProjectClockwork\Default.rc2.res"
+/OUT:"D:\Projects\ProjectClockwork\ProjectClockwork\Intermediate\Build\Win64\UE4Editor\Development\ProjectClockwork\UE4Editor-ProjectClockwork-5445.lib"

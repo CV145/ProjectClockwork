@@ -1,0 +1,3 @@
+D:\Projects\ProjectClockwork\ProjectClockwork\Intermediate\Build\Win64\UE4Editor\Development\ProjectClockwork\Definitions.ProjectClockwork.h
+D:\Projects\ProjectClockwork\ProjectClockwork\Source\ProjectClockwork\CustomBlueprintFunctionLibrary.h
+D:\Projects\ProjectClockwork\ProjectClockwork\Intermediate\Build\Win64\UE4Editor\Inc\ProjectClockwork\CustomBlueprintFunctionLibrary.generated.h
